@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/brasil-js/danfe",
   "dependencies": {
-    "brasil": "0.0.37",
     "gammautils": "0.0.67",
     "inscricaoestadual": "0.0.2",
     "pdfkit": "^0.7.0"
